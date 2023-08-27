@@ -87,7 +87,7 @@ package. For instance:
 MASTER=spark://host:7077 ./bin/run-example SparkPi
 ```
 
-Many of the example programs print usage help if no params are given.
+Many of the example programs print usage help if no parameters are given.
 
 ## Running Tests
 
@@ -117,7 +117,7 @@ building for particular Hive and Hive Thriftserver distributions.
 ## Configuration
 
 Please refer to the [Configuration Guide](https://spark.apache.org/docs/latest/configuration.html)
-in the online documentation for an overview on how to configure Spark.
+in the online documentation for an overview of how to configure Spark.
 
 ## Contributing
 
